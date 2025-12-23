@@ -188,7 +188,7 @@ No plugins, no uploads, no special formats required.
 
 - The scripts **do not modify any files**
 - Binary files are never concatenated
-- Large projects can produce large output files — adjust filters accordingly
+- Large projects can produce large output files - adjust filters accordingly
 - Directory skip notices are written only once per directory to reduce noise
 
 ---
